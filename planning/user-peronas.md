@@ -1,0 +1,4 @@
+- Movie Enthusiast: Ramya (24) - Enjoys exploring different genres and discovering new movies.
+- Casual Viewer: Alex (30) - Prefers mainstream movies and uses search platforms to find specific titles.
+- Family Movie Night Planner: Sarah (35) - Seeks family-friendly movies for movie nights with her children.
+- Film Student: David (21) - Uses search platforms to research films for academic projects and filmmaking inspiration.
