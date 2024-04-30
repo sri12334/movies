@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./assets/screenshort.png)
 
 ## Technologies
 
@@ -35,9 +35,24 @@ clone the repo and start using the stop watch.
 
 ## Code Examples
 
-```js
+const createImage = (image) => {
+    const container = document.createElement('div');
+    container.classList.add('image-box');
+    container.id = image.id;
 
-```
+    const img = document.createElement('img');
+    img.src = image.src;
+    img.alt = image.dataName;
+
+    const title = document.createElement('h6');
+    title.innerText = image.title;
+
+    container.append(img, title);
+
+    return container;
+};
+
+export default createImage;
 
 ## Features
 
@@ -54,7 +69,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Project is: todo
 
 ## Inspiration
 
